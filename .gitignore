@@ -1,0 +1,17 @@
+# Local design material: deliberated in a grilling session, never committed.
+/.design/
+
+# Rust
+/target/
+**/*.rs.bk
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+app/build/
+app/android/.gradle/
+app/android/local.properties
+app/ios/Pods/
+*.iml
+.idea/
